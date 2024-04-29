@@ -1,6 +1,6 @@
 # nvim-pandas.nvim
 
-This is a neovim plugin for smoothly interacting with pandas dataframes from debugging sessions using `dap`.
+The only plugin you need for smoothly interacting with pandas dataframes from within `nvim-dap`'s debugging sessions.
 
 ## TODOS
 
